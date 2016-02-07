@@ -1,6 +1,11 @@
 This folder contains all the files that are under version management from all projects
 GitHub initiated according to: https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu-14.04/
 
+git commands:
 
-add a file to the git using
-git add add-your-filename-here
+1. add a file/folder to the git
+	git add add-your-filename-here
+2. commit chanes to git
+	git commit -m "what was changed"
+3. upload local version to GitHub
+	git push origin master
